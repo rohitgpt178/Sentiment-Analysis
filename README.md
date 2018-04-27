@@ -1,5 +1,5 @@
-#Sentiment Analysis
-##Assignment for CS671A-NLP
+# Sentiment Analysis
+## Assignment for CS671A-NLP
 
 **asgn2** contains the problem statement.
 
