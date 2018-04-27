@@ -1,0 +1,43 @@
+--- word2vec ---
+--- loading data ---
+#training points:  25000
+#testing points:  25000
+--- SVM ---
+--- training svm classifier ---
+--- testing svm classifier ---
+Accuracy :  85.636 %
+--- naive bayes ---
+--- training naive-bayes Bernoulli classifier ---
+--- testing naive-bayes Bernoulli classifier ---
+Accuracy :  74.936 %
+--- MLP layer_size = (1,100)---
+--- training MLP classifier ---
+--- testing MLP classifier ---
+Accuracy :  85.652 %
+--- logistic regression ---
+--- training logistic regression classifier ---
+--- testing logistic regression classifier ---
+Accuracy :  85.19200000000001 %
+
+------------------------------------------------------------
+--- word2vec ---
+--- loading data (weighted)---
+#training points:  25000
+#testing points:  25000
+--- SVM ---
+--- training svm classifier ---
+--- testing svm classifier ---
+Accuracy :  83.556 %
+--- naive bayes ---
+--- training naive-bayes Bernoulli classifier ---
+--- testing naive-bayes Bernoulli classifier ---
+Accuracy :  74.236 %
+--- MLP ---
+--- training MLP classifier ---
+--- testing MLP classifier ---
+Accuracy :  83.41199999999999 %
+--- logistic regression ---
+--- training logistic regression classifier ---
+--- testing logistic regression classifier ---
+Accuracy :  83.22 %
+-----------------------------------------------------------------

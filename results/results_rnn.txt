@@ -1,0 +1,29 @@
+------------- RNN using LSTM -------------
+----------------- word2vec ---------------
+--- loading data ---
+#training points:  25000
+#testing points:  25000
+--- training RNN ---
+--- testing RNN ---
+23744/25000 [===========================>..] - ETA: 0s #Accuracy: 85.65%
+------------ weighted word2vec -----------
+--- loading data ---
+#training points:  25000
+#testing points:  25000
+--- training RNN ---
+--- testing RNN ---
+24000/25000 [===========================>..] - ETA: 0s #Accuracy: 83.42%
+------------ glove -----------
+--- loading data ---
+#training points:  25000
+#testing points:  25000
+--- training RNN ---
+--- testing RNN ---
+23680/25000 [===========================>..] - ETA: 0s #Accuracy: 83.86%
+------------ weighted glove -----------
+--- loading data ---
+#training points:  25000
+#testing points:  25000
+--- training RNN ---
+--- testing RNN ---
+24000/25000 [===========================>..] - ETA: 0s #Accuracy: 80.85%

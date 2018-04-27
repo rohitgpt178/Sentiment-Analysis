@@ -1,0 +1,68 @@
+Saving the training data as BOW
+Loading the training data BOW
+Saving the testing data as BOW
+Loading the testing data BOW
+Saving the training data as BOW_tf
+Loading the training data BOW_tf
+Saving the testing data as BOW_tf
+Loading the testing data BOW_tf
+Saving the training data as BOW_tfidf
+Loading the training data BOW_tfidf
+Saving the testing data as BOW_tfidf
+Loading the testing data BOW_tfidf
+#training pts :  25000
+#testing pts :  25000
+--- SVM Classifier ---
+--- Using BOW --------
+--- training svm classifier ---
+--- testing svm classifier ---
+Accuracy :  85.104 %
+--- Using BOW tf------
+--- training svm classifier ---
+--- testing svm classifier ---
+Accuracy :  84.54 %
+--- Using BOW tfidf---
+--- training svm classifier ---
+--- testing svm classifier ---
+Accuracy :  87.856 %
+--- MLP Classifier ---
+--- Using BOW --------
+--- training MLP classifier ---
+--- testing MLP classifier ---
+Accuracy :  85.992 %
+--- Using BOW tf------
+--- training MLP classifier ---
+--- testing MLP classifier ---
+Accuracy :  86.404 %
+--- Using BOW tfidf---
+--- training MLP classifier ---
+--- testing MLP classifier ---
+Accuracy :  85.468 %
+--- Logistic Regression ---
+--- Using BOW --------
+--- training logistic regression classifier ---
+--- testing logistic regression classifier ---
+Accuracy :  87.064 %
+--- Using BOW tf------
+--- training logistic regression classifier ---
+--- testing logistic regression classifier ---
+Accuracy :  80.608 %
+--- Using BOW tfidf---
+--- training logistic regression classifier ---
+--- testing logistic regression classifier ---
+Accuracy :  88.8 %
+--- Naive-Bayes classifier---
+--- Using BOW --------
+--- training naive-bayes Bernoulli classifier ---
+--- testing naive-bayes Bernoulli classifier ---
+Accuracy :  82.596 %
+--- Using BOW tf------
+--- training naive-bayes Bernoulli classifier ---
+--- testing naive-bayes Bernoulli classifier ---
+Accuracy :  82.596 %
+--- Using BOW tfidf---
+--- training naive-bayes Bernoulli classifier ---
+--- testing naive-bayes Bernoulli classifier ---
+Accuracy :  82.596 %
+
+

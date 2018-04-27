@@ -1,0 +1,42 @@
+--- using glove vectors ---
+--- loading data ---
+#training points:  25000
+#testing points:  25000
+--- SVM ---
+--- training svm classifier ---
+--- testing svm classifier ---
+Accuracy :  83.292 %
+--- naive bayes ---
+--- training naive-bayes Bernoulli classifier ---
+--- testing naive-bayes Bernoulli classifier ---
+Accuracy :  72.87599999999999 %
+--- MLP ---
+--- training MLP classifier ---
+--- testing MLP classifier ---
+Accuracy :  83.13199999999999 %
+--- logistic regression ---
+--- training logistic regression classifier ---
+--- testing logistic regression classifier ---
+Accuracy :  83.13199999999999 %
+----------------------------------------------------------
+--- using glove vectors ---
+--- loading data (weighted)---
+#training points:  25000
+#testing points:  25000
+--- SVM ---
+--- training svm classifier ---
+--- testing svm classifier ---
+Accuracy :  80.428 %
+--- naive bayes ---
+--- training naive-bayes Bernoulli classifier ---
+--- testing naive-bayes Bernoulli classifier ---
+Accuracy :  71.48 %
+--- MLP ---
+--- training MLP classifier ---
+--- testing MLP classifier ---
+Accuracy :  80.508 %
+--- logistic regression ---
+--- training logistic regression classifier ---
+--- testing logistic regression classifier ---
+Accuracy :  80.456 %
+
